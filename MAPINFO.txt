@@ -1,0 +1,8 @@
+GameInfo {
+	AddEventHandlers = "GrappleHandler"
+	PlayerClasses = "GrapplePlayer", "DoomPlayer"
+}
+
+DoomEdNums {
+	21910 = "HookThing"
+}

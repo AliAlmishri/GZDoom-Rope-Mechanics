@@ -1,0 +1,9 @@
+alias grapple "NetEvent grapple"
+
+addkeysection "Grapple Controls" Greg
+addmenukey "Fire Grapple Hook" "grapple"
+
+alias +swingforward "+forward; "NetEvent swingforward""
+alias -swingforward "-forward; "NetEvent stopswinging""
+alias +swingbackward "+back"NetEvent swingbackward""
+alias -swingbackward "-back; "NetEvent stopswinging""
