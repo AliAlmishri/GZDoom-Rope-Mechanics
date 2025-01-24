@@ -1,1 +1,2 @@
-"# GZDoom-Rope-Mechanics"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:AliAlmishri/GZDoom-Rope-Mechanics.gitgit push -u origin main
+This is my attempt at adding the ability to rope swing in GZDoom.
+Requires Doom 2 as a base IWAD.
